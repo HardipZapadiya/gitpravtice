@@ -6,6 +6,8 @@ public class HashMappractice {
         map.put("Apple", 1);
         map.put("Banana", 2);
         map.put("Orange", 3);
+        map.put("Mango", 4);
+
 
         // Retrieving a value by its key
         int appleCount = map.get("Apple");
