@@ -8,6 +8,7 @@ public class HashMappractice {
         map.put("Orange", 3);
         map.put("Mango", 4);
         map.put("Grapes", 5);
+        map.put("Pineapple", 6);
 
 
         // Retrieving a value by its key
